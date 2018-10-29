@@ -64,6 +64,12 @@ wireless-mode ad-hoc
 wireless-power on
 ```
 
+## Liens 
+- Flux video mplayer
+  - [Flux video mplayer][FluxVideo]
+
+
+[FluxVideo]: ./FluxVideo/FluxVideo.md "Flux video depuis Raspberry avec Mplayer"
 
 
 
